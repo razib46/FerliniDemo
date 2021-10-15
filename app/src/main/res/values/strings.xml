@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ferlini Demo</string>
+    <string name="action_search">Cerca</string>
+    <string name="filter_title">Filtra Stargazer</string>
+    <string name="label_owner">Proprietario</string>
+    <string name="label_repo">Repository</string>
+    <string name="owner_def_value">octocat</string>
+    <string name="repo_def_value">hello-world</string>
+    <string name="generic_error">Si è verificato un errore!</string>
+    <string name="no_result_found">Nessun risultato trovato!</string>
+</resources>
